@@ -20,7 +20,7 @@ Project Outcome: The PG Life Booking System provides a comprehensive solution fo
 
 Challenges and Solutions:
 
-Challenge: Integrating multiple technologies (PHP with React).
+Challenge:Integrating multiple technologies (PHP with React).
 Solution: Implemented a RESTful API to bridge the communication between the React frontend and PHP backend.
 Challenge: Ensuring database security and preventing SQL injection.
 Solution: Used prepared statements and parameterized queries in PHP to secure database interactions.
